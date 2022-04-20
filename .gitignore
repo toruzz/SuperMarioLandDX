@@ -1,0 +1,11 @@
+.vscode
+private
+TODO.md
+*.gb
+*.gbc
+*.sav
+*.sym
+*.sna
+*.gbc
+*.bak
+*.exe
